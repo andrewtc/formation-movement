@@ -1,14 +1,20 @@
-# Building from source
+# Formation Movement Test Bed App
+This app was developed as part of my _Formation Movement for Real-time Strategy Games_ thesis project at The Guildhall at SMU. The code is provided as-is and with the express permission of the faculty at Southern Methodist University.
+
+## 📦 Downloading binaries
+See the [Releases](https://github.com/andrewtc/formation-movement/releases) page for pre-built executable files. These are currently **only** available for Windows.
+
+## 🏗️ Building from source code
 Please note that this app has **only** been tested on Windows so far. As such, only Windows build instructions are available.
 
-## Windows
+### Windows
 The test bed app can be built using the [meson](https://mesonbuild.com/) build system.
 
-### Prerequisites
+#### Prerequisites
  - Install Visual Studio, including the MSVC toolchain.
  - [Install meson](https://mesonbuild.com/Getting-meson.html).
 
-### Building
+#### Building
 
 1. Clone the repo, e.g. to `C:\dev\formation-movement`.
 2. Open a command prompt in the root project folder.
