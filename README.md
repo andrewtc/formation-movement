@@ -1,5 +1,5 @@
 # Formation Movement Test Bed App
-This app was developed as part of my _Formation Movement for Real-time Strategy Games_ thesis project at The Guildhall at SMU. The code is provided as-is and with the express permission of the faculty at Southern Methodist University.
+This app was developed as part of my [_Formation Movement for Real-time Strategy Games_](https://andrewtc.dev/thesis/) thesis project at [The Guildhall at SMU](https://www.smu.edu/guildhall). The code is provided as-is and with the express permission of the faculty at Southern Methodist University.
 
 ## 📦 Downloading binaries
 See the [Releases](https://github.com/andrewtc/formation-movement/releases) page for pre-built executable files. These are currently **only** available for Windows.
