@@ -14,7 +14,7 @@ The test bed app can be built using the [meson](https://mesonbuild.com/) build s
 2. Open a command prompt in the root project folder.
 3. To create and configure a new build directory named `builddir`, run:
    ```ps1
-   meson builddir -Dglfw:install=true
+   meson setup builddir -Dglfw:install=true
    ```
 4. To compile and install the app, run:
    ```ps1
