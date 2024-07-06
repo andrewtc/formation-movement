@@ -18,7 +18,7 @@ The test bed app can be built using the [meson](https://mesonbuild.com/) build s
    ```
 4. To compile and install the app, run:
    ```ps1
-   meson install -C builddir --destdir "C:\formation-movement"
+   meson install -C builddir --tags=runtime --destdir "C:\formation-movement"
    ```
    Note that `"C:\formation-movement"` can be the name of any directory. This is where the installed files will end up.
 5. Navigate to the `bin` subfolder of the install directory, e.g. `cd C:\formation-movement\bin`.
